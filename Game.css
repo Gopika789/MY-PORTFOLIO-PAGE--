@@ -1,0 +1,68 @@
+body {
+    background: #fcd9ff ;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  
+  
+
+    .title{
+        font-family: OPTIProtea;
+        text-align: center;
+        font-style: oblique;
+        border-style: dotted;
+        margin-top: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-bottom: 50px;
+        padding-top: 10px;
+        padding-left: 50px;
+      }
+
+    
+  
+  h1{
+    color: #ff007f
+  }
+
+  .Games  {
+    text-align: center
+}
+
+.Games :hover img{
+opacity: 0.33;
+}
+
+.flex-box{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+a:link{
+ color: #ff007f;
+}
+
+a:hover{
+  background-color: blueviolet;
+}
+
+a:visited{
+  background-color: gold;
+  
+}
+
+.Trex-Game{
+ 
+ justify-content: center ;
+}
+
+.Ghost-runner{
+justify-content: right;
+}
+  
+ 
